@@ -4,7 +4,7 @@
 
 # hi, i'm ayushi
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=0B6E4F&center=true&vCenter=true&width=900&lines=CS+%2B+Math+student;Reinforcement+learning+%2B+computer+vision+%2B+OCR;Mostly+Python%2C+SQL%2C+Node.js%2C+and+some+R)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&color=0B6E4F&center=true&vCenter=true&width=900&lines=CS+%2B+Math+student;Reinforcement+learning+%2B+computer+vision;Mostly+Python%2C+SQL%2C+Node.js%2C+and+some+R)](https://git.io/typing-svg)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
@@ -63,7 +63,10 @@ I built a custom OCR system focused on detecting feature control frame symbols. 
 
 <br>
 
-I have also worked on precision agriculture with a local nonprofit. Applied work like this matters to me because it shows how data and software can be useful outside the lab, especially when the goal is helping real communities make better decisions.
+For my capstone, I worked on a precision agriculture project with a local nonprofit. Applied work like this matters to me because it shows how data and software can be useful outside the lab, especially when the goal is helping real communities make better decisions.
+<p align="center">
+  <img 
+    src="https://github.com/Ayushi3571/Ayushi3571/blob/main/OMID_poster.png" alt ="Precision Agriculture Poster" width="700" />
 
 </details>
 
